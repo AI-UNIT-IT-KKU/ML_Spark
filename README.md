@@ -23,7 +23,7 @@ This repository contains Jupyter Notebooks, datasets, and examples covering supe
 
 ### 2. Feature Engineering
 
-2.1 Feature selection (correlation, PCA)
+2.1 Feature selection (correlation, p-value)
 
 2.2 Feature scaling
 
