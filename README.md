@@ -3,7 +3,7 @@
 A clear roadmap of the Machine Learning workflow — from raw data preprocessing to model evaluation.
 This repository contains Jupyter Notebooks, datasets, and examples covering supervised, unsupervised, and deep learning methods.
 
-[!ML Pipline](ML_Spark/ml_pipline.png)
+![ML Pipline](ML_Spark/ml_pipline.png)
 
 ---
 
