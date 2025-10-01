@@ -17,8 +17,6 @@ This repository contains Jupyter Notebooks, datasets, and examples covering supe
 
 1.3 Encode categorical variables
 
-1.4 Normalize / scale features
-
 ---
 
 ### 2. Feature Engineering
@@ -43,9 +41,9 @@ This repository contains Jupyter Notebooks, datasets, and examples covering supe
 
 ### 4. Evaluation
 
-4.1 Regression Metrics: MSE, RMSE, R², Adjusted R²
+4.1 Regression Metrics: MSE, R², Adjusted R²
 
-4.2 Classification Metrics: Accuracy, Precision, Recall, F1, ROC-AUC
+4.2 Classification Metrics: Accuracy, Precision, Recall, F1
 
 4.3 Cross-validation for generalization
 
