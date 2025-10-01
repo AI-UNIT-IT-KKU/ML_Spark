@@ -3,7 +3,9 @@
 A clear roadmap of the Machine Learning workflow — from raw data preprocessing to model evaluation.
 This repository contains Jupyter Notebooks, datasets, and examples covering supervised, unsupervised, and deep learning methods.
 
-[!ML Pipline](ml_pipeline.png)
+[!ML Pipline](ml_pipline.png)
+
+---
 
 ## Workflow
 
@@ -17,6 +19,8 @@ This repository contains Jupyter Notebooks, datasets, and examples covering supe
 
 1.4 Normalize / scale features
 
+---
+
 ### 2. Feature Engineering
 
 2.1 Feature selection (correlation, PCA)
@@ -24,6 +28,8 @@ This repository contains Jupyter Notebooks, datasets, and examples covering supe
 2.2 Feature scaling
 
 2.3 Feature construction
+
+--- 
 
 ### 3. Choose Algorithm
 
@@ -33,6 +39,8 @@ This repository contains Jupyter Notebooks, datasets, and examples covering supe
 
 3.3 Deep Learning: ANN, CNN
 
+---
+
 ### 4. Evaluation
 
 4.1 Regression Metrics: MSE, RMSE, R², Adjusted R²
@@ -41,7 +49,7 @@ This repository contains Jupyter Notebooks, datasets, and examples covering supe
 
 4.3 Cross-validation for generalization
 
-
+---
 
 ### 5. Libraries Used
 
@@ -52,6 +60,8 @@ This repository contains Jupyter Notebooks, datasets, and examples covering supe
 5.3 Scikit-learn → ML models & evaluation
 
 5.4 TensorFlow / Keras → Deep Learning
+
+---
 
 ✨ This repository is part of my Spark Internship journey.
 
