@@ -13,7 +13,7 @@ This repository contains Jupyter Notebooks, datasets, and examples covering supe
 
 1.1 Collect and clean raw data
 
-1.2 andle missing values
+1.2 Handle missing values
 
 1.3 Encode categorical variables
 
